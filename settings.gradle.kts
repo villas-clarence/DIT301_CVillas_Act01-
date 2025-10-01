@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "HelloMobileDev"
 include(":app")
- 
